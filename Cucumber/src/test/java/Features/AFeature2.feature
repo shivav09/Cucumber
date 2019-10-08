@@ -1,4 +1,4 @@
-Feature:Sign up
+Feature:Signup functionality feature
 
 #Login
 @ABC
